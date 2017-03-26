@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22247" started-at="2017-03-24T07:14:44Z" finished-at="2017-03-24T07:15:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22247" started-at="2017-03-24T07:14:44Z" finished-at="2017-03-24T07:15:06Z">
+      <class name="Pack1.SearchHappyPath">
+        <test-method status="PASS" signature="search()[pri:0, instance:Pack1.SearchHappyPath@6276ae34]" name="search" duration-ms="22210" started-at="2017-03-24T07:14:44Z" finished-at="2017-03-24T07:15:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- Pack1.SearchHappyPath -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
